@@ -1,4 +1,4 @@
-# Moviw-wishlist app
+# Movie-wishlist app
 Movie watchlist app built with React and Express.js
 
 # dependencies
