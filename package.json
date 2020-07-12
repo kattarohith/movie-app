@@ -17,7 +17,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "jade": "~1.11.0",
     "mongoose": "^4.2.3",
-    "morgan": "~1.6.1",
+    "morgan": "~1.9.1",
     "react": "^0.14.1",
     "reqwest": "^2.0.5",
     "serve-favicon": "~2.3.0",
